@@ -1,0 +1,7 @@
+FROM python:3.9-slim
+
+RUN pip install psutil
+
+COPY load_simulator.py /load_simulator.py
+
+ENTRYPOINT ["python", "/load_simulator.py"]
