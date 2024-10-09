@@ -1,0 +1,16 @@
+timestamp: 2024-07-15 14:40:37
+average_cpu_percent: 7.007066462948816
+average_memory_percent: 89.07249809014515
+average_nic_usage:
+  Wi-Fi: 1603868842.434301
+  Local Area Connection: 0.0
+  VMware Network Adapter VMnet8: 2456.8563789152026
+  Loopback Pseudo-Interface 1: 0.0
+  vEthernet (WSL (Hyper-V firewall)): 2150577.9679144383
+  Ethernet 3: 0.0
+  Local Area Connection* 2: 0.0
+  VMware Network Adapter VMnet1: 1641.8128342245989
+  Local Area Connection* 1: 0.0
+  Ethernet 2: 0.0
+  Bluetooth Network Connection: 0.0
+average_tdp: 0.0
